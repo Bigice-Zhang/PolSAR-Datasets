@@ -1,0 +1,12 @@
+ENVI
+description = {
+PolSARpro File Imported to ENVI }
+samples = 1380
+lines   = 1800
+max val = 1.000000
+min val = 0.000000
+color   = 8 bytes
+sensor type = NONE
+map info = {UTM,1,1,0.0,0.0,1.0,1.0,30,North}
+band names = {
+F:/Database/20221013-Êý¾ÝT¾ØÕó/AIRSAR_San_Francisco_bay1380-1800/T3/mask_valid_pixels.bmp.hdr }
